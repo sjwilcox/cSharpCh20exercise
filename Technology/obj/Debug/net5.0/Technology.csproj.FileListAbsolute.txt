@@ -1,0 +1,16 @@
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.exe
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.deps.json
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.json
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.dll
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\ref\Technology.dll
+D:\VS Projects\Technology\Technology\bin\Debug\net5.0\Technology.pdb
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.dll
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\ref\Technology.dll
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.pdb
+D:\VS Projects\Technology\Technology\obj\Debug\net5.0\Technology.genruntimeconfig.cache
